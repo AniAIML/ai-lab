@@ -30,7 +30,7 @@ prediction=lg.predict(stock_data)[0]
 # label_reverse={0:"Low",1:"High"} # No longer needed
 predicted_class=prediction # Prediction is already the category
 print(f"\n prediction: stock {predicted_class}")
-os.environ["GOOGLE_API_KEY"]="AIzaSyBZP8OCki6kF-Yazt_AGlKq81cF_06zWBw"
+os.environ["GOOGLE_API_KEY"]=" "
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 def get_stock_suggestion(condition):
   lg=genai.GenerativeModel("gemini-2.5-flash")
