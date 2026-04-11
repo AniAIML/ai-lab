@@ -54,3 +54,5 @@ https://colab.research.google.com/drive/1i0RipkDalSWSMHkapwuFE9m4dEOUe0Bh?usp=sh
 https://artistic-gigantic-direction.anvil.app/
 
 https://colab.research.google.com/drive/1j_7q_7Hl3GXMPY_M0ArCBMhUpl_3TLAo?usp=sharing -- Earthquake_pred_anvil
+
+https://colab.research.google.com/drive/1lXV9jws1A9uv1lYBvQZJmxmC37EKMyv_?usp=sharing --emotion detection
