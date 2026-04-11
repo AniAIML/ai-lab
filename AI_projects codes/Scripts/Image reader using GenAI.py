@@ -11,7 +11,7 @@ from google.colab import files
 from PIL import Image
 import matplotlib.pyplot as plt
 
-genai.configure(api_key="AIzaSyBaL1czdb6bckhb0cdT4HEZhMhbMhLqMHc")
+genai.configure(api_key=" ")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 uploaded = files.upload()

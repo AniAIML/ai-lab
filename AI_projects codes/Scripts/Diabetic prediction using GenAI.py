@@ -38,7 +38,7 @@ predicted_class = label_reverse[prediction]
 print(f"\n🩺 Prediction: The patient is likely {predicted_class}.")
 
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBaL1czdb6bckhb0cdT4HEZhMhbMhLqMHc"
+os.environ["GOOGLE_API_KEY"] = " "
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # --- Step 4: Use OpenAI to suggest diet ---
@@ -106,7 +106,7 @@ predicted_class = label_reverse[prediction]
 print(f"\n🩺 Prediction: The patient is likely {predicted_class}.")
 
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBaL1czdb6bckhb0cdT4HEZhMhbMhLqMHc"
+os.environ["GOOGLE_API_KEY"] = " "
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # --- Step 4: Use OpenAI to suggest diet ---
@@ -163,7 +163,7 @@ def get_patient_input():
     bp = float(input("Blood Pressure (mmHg): "))
     return [[age, bmi, glucose, bp]]
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBaL1czdb6bckhb0cdT4HEZhMhbMhLqMHc"
+os.environ["GOOGLE_API_KEY"] = " "
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # --- Step 4: Use OpenAI to suggest diet ---

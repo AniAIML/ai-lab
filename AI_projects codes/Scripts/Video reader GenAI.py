@@ -14,7 +14,7 @@ import google.generativeai as genai
 import time
 
 # 👉 Put your Gemini API Key here
-genai.configure(api_key="AIzaSyBaL1czdb6bckhb0cdT4HEZhMhbMhLqMHc")
+genai.configure(api_key=" ")
 
 # ==============================
 # 3. Upload Video File
