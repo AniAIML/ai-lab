@@ -29,3 +29,28 @@ https://colab.research.google.com/drive/1usesNZq4zCZpIoOXXfFAqVpFOn1lByBP --Hand
 https://colab.research.google.com/drive/1KXDx-LHkWxNMGtBkY7v9lFidEaC8HnEL -- US airline_sentiment analysis.ipynb nlp
 
 https://colab.research.google.com/drive/1-DYim2wjWorexyMNqB_gihQgxzXx31ot -- wine_clusertering_kmeans.ipynb
+
+
+
+https://colab.research.google.com/drive/1bK-idTu3_pckPENGKmbKIMEfweCofWJf?usp=sharing -- stock prediction using GEN AI.ipynb
+
+https://colab.research.google.com/drive/1vT1njajbcPzpCRzr6FuwRTvwWxbxR9OM?usp=sharing -- TIME SERIES_GOOGLE STOCK FUTURE PREDICTION USING LSTM .ipynb
+
+
+https://colab.research.google.com/drive/1-DYim2wjWorexyMNqB_gihQgxzXx31ot#scrollTo=6LKOPYJ27s1X -- wine_clusertering_kmeans.ipynb
+
+https://colab.research.google.com/drive/1U8VoaO6a6ro8LnExsUPI2i109qnsadlI#scrollTo=jeTeiqsyldhf -- college placement kmeans, logistic, linear .ipynb
+
+https://colab.research.google.com/drive/1fVZadgI9wuGhNGE_SBvAIgKBP4OlJtzr?usp=sharing -- python assignments imdb dataset.ipynb
+
+https://colab.research.google.com/drive/1lwsstD3Z5HREm7SUsmBaB0RlUA9j27k-?usp=sharing -- python assignments ipl dataset.ipynb
+
+
+https://colab.research.google.com/drive/1jUInYPhbyBmH9G8s_ohAm2MtlS8e1bq4 -- IRIS_multiclassifer.ipynb
+
+
+https://colab.research.google.com/drive/1i0RipkDalSWSMHkapwuFE9m4dEOUe0Bh?usp=sharing -- IRIS Anvil
+
+https://artistic-gigantic-direction.anvil.app/
+
+https://colab.research.google.com/drive/1j_7q_7Hl3GXMPY_M0ArCBMhUpl_3TLAo?usp=sharing -- Earthquake_pred_anvil
