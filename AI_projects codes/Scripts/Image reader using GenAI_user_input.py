@@ -4,7 +4,7 @@ from google.colab import files
 from PIL import Image
 import matplotlib.pyplot as plt
 
-genai.configure(api_key="AIzaSyBAuXJkZf-uGgjs75lddcPzke8TFV_UQQk")
+genai.configure(api_key=" ")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 uploaded = files.upload()
