@@ -1,0 +1,31 @@
+https://colab.research.google.com/drive/1jMO2T95-ww2qSvIGE_LeNbjVRGUwAZNL#scrollTo=LBc2iH1IsIpf -- NLP_IMDB Reviews_text_classification.ipynb
+
+https://colab.research.google.com/drive/1LpiYflALSJN6PNJkvAdJua7KXbec3ylS?usp=sharing -- speech to speech bot using GenAI.ipynb
+
+https://colab.research.google.com/drive/1RqKsJloA2ba7N6KziVHFFmk-1NIp0zxf ----emotion detection.ipynb
+
+
+https://colab.research.google.com/drive/1j3ig_bIGmXX8a7_OgqJFUewFLdCnuKe7 -- Image reader geni.ipynb
+
+
+https://colab.research.google.com/drive/1DsSjZ9xMLvjhH-LHfDxuLNg1ONeO_d9Q?usp=sharing -- CNN Apple_Orange.ipynb
+
+
+https://colab.research.google.com/drive/175ntf5VTbY4q1q07AUTJ56ofdEATrQCp?usp=sharing --- CNN_lion_tiger_classification.ipynb
+
+
+https://colab.research.google.com/drive/1v5F3L7Yaqcci6KbyMPqcv5R0-QkiqNiP?usp=sharing -- Diabetic prediction using GenAI.ipynb
+
+
+https://colab.research.google.com/drive/1haRk02gaykXzDnLxyZWgQpCS43BQaeb_?usp=sharing --video reader gen ai.ipynb
+
+
+https://colab.research.google.com/drive/1_JMNcZDZXcHgbr78-N2eS7Jg3qux3lm3?usp=sharing -- coding assitant as.ipynb
+
+
+https://colab.research.google.com/drive/1usesNZq4zCZpIoOXXfFAqVpFOn1lByBP --Handwritten digits ANN.ipynb
+
+
+https://colab.research.google.com/drive/1KXDx-LHkWxNMGtBkY7v9lFidEaC8HnEL -- US airline_sentiment analysis.ipynb nlp
+
+https://colab.research.google.com/drive/1-DYim2wjWorexyMNqB_gihQgxzXx31ot -- wine_clusertering_kmeans.ipynb
