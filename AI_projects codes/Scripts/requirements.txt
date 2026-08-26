@@ -1,0 +1,11 @@
+streamlit
+pandas
+geopy
+matplotlib
+numpy
+scikit-learn
+fpdf2
+google-genai
+streamlit>=1.30.0
+pandas>=2.0.0
+google-genai>=0.3.0
